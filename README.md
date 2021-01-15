@@ -2,7 +2,7 @@
 The Events Parser java application in version 1.0 allows for reading events from external file and keeps them in the HSQLDB database.
 This is Spring Boot command-line application.
 
-The external file should be provided and an application parameter
+The external file should be provided and an application parameter <br>
     Example: 
        java -jar build/libs/EventsParser-0.0.1-SNAPSHOT.jar example.log
 
